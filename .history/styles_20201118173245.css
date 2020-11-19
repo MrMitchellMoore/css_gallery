@@ -55,7 +55,7 @@ body {
   transition: .3s ease-in-out;
 }
 
-.gallery-item:hover .title-text {
+.gallery-item:hover .text {
   opacity: 1;
   animation: move-down .3s linear;
   padding: 1em;
